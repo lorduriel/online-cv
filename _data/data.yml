@@ -3,119 +3,111 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ulises Uriel Verduzco Díaz
+    tagline: Android Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: urieluvd@gmail.com
+    phone: 44 37 31 15 02
+    # website: blog.webjeda.com #do not add http://
+    linkedin: uriel-verduzco
+    # xing: alandoe
+    github: lorduriel
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    stack-overflow: 3246371/urieluvd # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Advanced
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: VideoGames
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I love Android development. I have a bachelor degree in Computer Systems Engineering.
+      Experienced in full-stack development and API integrations.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Systems Engineering
+      university: Instituto Tecnológico de Morelia
+      time: 2009 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Cisco CCNA
+      university: Instituto Tecnológico de Morelia
+      time: 2013 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Certification
 experiences:
+    - role: Android Developer
+      time: 2021 - Present
+      company: Baires Dev, San Francisco
+      details: |
+        Outsourcing for companies with Android applications that need to add 
+        new features or update applications already in production.
+        Currently working with SwingU and their multiple solutions.
+          - Java
+          - Kotlin
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2018 - 2020
+      company: Cantera Digital, México
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Training new employees in the use of Android, Docker, Version Control
+        Development patterns, etc...
+        Planning and deploying proyects.
+        Integrate Android applications to existing APIs.
+          - Java
+          - Kotlin
+          - PHP
+        
+    - role: Android Developer
+      time: 2017 - 2018
+      company: Cantera Digital, México
+      details: |
+        Android and Full-Stack development of the startup checalock.com
+        Android development of "BeaconCity"
+          - Java
+          - PHP
+
+    - role: Web Developer
+      time: 2017 - 2017
+      company: MiMorelia, México
+      details: |
+        Migration and maintenance of wordpress blogs. 
+        Implementation of SEO best practices to level up
+        the engagement and ranking of the news website mimorelia.com
+          - PHP
+    
+    - role: Java Developer
+      time: 2015 - 2016
+      company: ETIC Michoacán, México
+      details: |
+        Migration of un-normalized databases and implementation of web services.
+        Development of servlets and dashboards for government to have statistics of taxes.
+        Training of interns and new employees in development patterns for in Java
+        Design and development of multiple MVP’s for Android applications
+          - Java
+    - role: Web Developer
       time: 2014 - 2015
-      company: Google, London
+      company: MiMorelia, México
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Maintenance of WordPress Sites, Development of News Blogs
+          - PHP
 projects:
     title: Projects
     intro: >
@@ -123,69 +115,40 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SwingU
+        link: "https://www.swingu.com/"
+        tagline: "The Best Game-Improvement Features in Golf"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: BeaconCity
+        link: "https://beaconcity.com.mx/"
+        tagline: "Mobile application that allows you to connect establishments with users using the Beacon technology."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Checalock
+        link: "https://play.google.com/store/apps/details?id=com.checalock&hl=en&gl=US"
+        tagline: "Verify the authenticity of the products you will consume by scanning the QR code in the bottle. Collaborate with us checking when you have already consumed the product so no body else can use the same bottle"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: MiMorelia
+        link: "https://mimorelia.com/"
+        tagline: "News Site."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 95%
+      
+      - name: Kotlin
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Laravel
+        level: 90%

@@ -36,11 +36,13 @@ sidebar:
     interests:
       - item: VideoGames
         link:
+      - item: Languages
+        link: https://www.memrise.com/es/
 
 career-profile:
     title: Career Profile
     summary: |
-      I love Android development. I have a bachelor degree in Computer Systems Engineering.
+      I love Android and Laravel development. I have a bachelor degree in Computer Systems Engineering.
       Experienced in full-stack development and API integrations.
       
 education:
@@ -48,14 +50,28 @@ education:
       university: Instituto Tecnológico de Morelia
       time: 2009 - 2013
       details: |
+        Bachelor's Degree
+    - degree: Solutions Architect Associate
+      university: AWS
+      time: 2022 - Present
+      details: |
+        Certification
     - degree: Cisco CCNA
       university: Instituto Tecnológico de Morelia
       time: 2013 - 2013
       details: |
         Certification
 experiences:
+    - role: Software Engineer
+      time: 2022 - Present
+      company: Wizeline, México
+      details: |
+        Working in back-end internal projects
+          - Java
+          - Kotlin
+          - PHP
     - role: Android Developer
-      time: 2021 - Present
+      time: 2021 - 2022
       company: Baires Dev, San Francisco
       details: |
         Outsourcing for companies with Android applications that need to add 

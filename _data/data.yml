@@ -17,7 +17,7 @@ sidebar:
     # website: blog.webjeda.com #do not add http://
     linkedin: uriel-verduzco
     # xing: alandoe
-    github: lorduriel
+    github: urieluvd
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -73,7 +73,7 @@ experiences:
           - Laravel
           - Docker
           - AWS
-          
+
     - role: Android Developer
       time: 2021 - 2022
       company: Baires Dev, San Francisco

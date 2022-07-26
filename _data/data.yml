@@ -70,6 +70,10 @@ experiences:
           - Java
           - Kotlin
           - PHP
+          - Laravel
+          - Docker
+          - AWS
+          
     - role: Android Developer
       time: 2021 - 2022
       company: Baires Dev, San Francisco
@@ -77,8 +81,10 @@ experiences:
         Outsourcing for companies with Android applications that need to add 
         new features or update applications already in production.
         Currently working with SwingU and their multiple solutions.
+          - Android
           - Java
           - Kotlin
+          - BitRise
     - role: Lead Developer
       time: 2018 - 2020
       company: Cantera Digital, México
@@ -87,17 +93,22 @@ experiences:
         Development patterns, etc...
         Planning and deploying proyects.
         Integrate Android applications to existing APIs.
+          - Android
           - Java
           - Kotlin
-          - PHP
-        
+          - Laravel
+          - PHP    
+          - Python
+
     - role: Android Developer
       time: 2017 - 2018
       company: Cantera Digital, México
       details: |
         Android and Full-Stack development of the startup checalock.com
         Android development of "BeaconCity"
+          - Android
           - Java
+          - Laravel
           - PHP
 
     - role: Web Developer
@@ -107,6 +118,7 @@ experiences:
         Migration and maintenance of wordpress blogs. 
         Implementation of SEO best practices to level up
         the engagement and ranking of the news website mimorelia.com
+          - Wordpress
           - PHP
     
     - role: Java Developer
@@ -166,3 +178,9 @@ skills:
 
       - name: Laravel
         level: 90%
+      
+      - name: Docker
+        level: 80%
+
+      - name: AWS
+        level: 50%

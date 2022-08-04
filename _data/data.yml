@@ -164,6 +164,9 @@ skills:
       - name: Java
         level: 95%
       
+      - name: Laravel
+        level: 90%
+
       - name: Kotlin
         level: 80%
 
@@ -171,14 +174,11 @@ skills:
         level: 80%
 
       - name: Angular
-        level: 90%
+        level: 85%
 
       - name: HTML5 & CSS
         level: 85%
 
-      - name: Laravel
-        level: 90%
-      
       - name: Docker
         level: 80%
 

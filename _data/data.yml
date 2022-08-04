@@ -184,3 +184,9 @@ skills:
 
       - name: AWS
         level: 50%
+
+      - name: Python
+        level: 50%
+      
+      - name: Ruby
+        level: 50%

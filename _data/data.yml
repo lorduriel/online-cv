@@ -57,13 +57,13 @@ education:
       details: |
         Certification
     - degree: Cisco CCNA
-      university: Instituto Tecnológico de Morelia
+      university: CISCO
       time: 2013 - 2013
       details: |
         Certification
 experiences:
     - role: Software Engineer
-      time: 2022 - Present
+      time: 2022 - 2022
       company: Wizeline, México
       details: |
         Working in back-end internal projects

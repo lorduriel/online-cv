@@ -27,17 +27,21 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Spanish
-        level: Native
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
 
-      - idiom: English
-        level: Advanced
+        - idiom: English
+          level: Advanced
 
     interests:
-      - item: VideoGames
-        link:
-      - item: Languages
-        link: https://www.memrise.com/es/
+      title: Interests
+      info:
+        - item: VideoGames
+          link:
+        - item: Languages
+          link: https://www.memrise.com/es/
 
 career-profile:
     title: Career Profile
@@ -46,97 +50,101 @@ career-profile:
       Experienced in full-stack development and API integrations.
       
 education:
-    - degree: Computer Systems Engineering
-      university: Instituto Tecnológico de Morelia
-      time: 2009 - 2013
-      details: |
-        Bachelor's Degree
-    - degree: Solutions Architect Associate
-      university: AWS
-      time: 2022 - Present
-      details: |
-        Certification
-    - degree: Cisco CCNA
-      university: CISCO
-      time: 2013 - 2013
-      details: |
-        Certification
+    title: Education
+    info:
+      - degree: Computer Systems Engineering
+        university: Instituto Tecnológico de Morelia
+        time: 2009 - 2013
+        details: |
+          Bachelor's Degree
+      - degree: Solutions Architect Associate
+        university: AWS
+        time: 2022 - Present
+        details: |
+          Certification
+      - degree: Cisco CCNA
+        university: CISCO
+        time: 2013 - 2013
+        details: |
+          Certification
 
-work-experiences:
-    - role: Software Engineer
-      time: 2022 - 2022
-      company: Wizeline, México
-      details: |
-        Working in back-end internal projects
-          - Java
-          - Kotlin
-          - PHP
-          - Laravel
-          - Docker
-          - AWS
+experiences:
+    title: Experiences
+    info:
+      - role: Software Engineer
+        time: 2022 - 2022
+        company: Wizeline, México
+        details: |
+          Working in back-end internal projects
+            - Java
+            - Kotlin
+            - PHP
+            - Laravel
+            - Docker
+            - AWS
 
-    - role: Android Developer
-      time: 2021 - 2022
-      company: Baires Dev, San Francisco
-      details: |
-        Outsourcing for companies with Android applications that need to add 
-        new features or update applications already in production.
-        Currently working with SwingU and their multiple solutions.
-          - Android
-          - Java
-          - Kotlin
-          - BitRise
-    - role: Lead Developer
-      time: 2018 - 2020
-      company: Cantera Digital, México
-      details: |
-        Training new employees in the use of Android, Docker, Version Control
-        Development patterns, etc...
-        Planning and deploying proyects.
-        Integrate Android applications to existing APIs.
-          - Android
-          - Java
-          - Kotlin
-          - Laravel
-          - PHP    
-          - Python
+      - role: Android Developer
+        time: 2021 - 2022
+        company: Baires Dev, San Francisco
+        details: |
+          Outsourcing for companies with Android applications that need to add 
+          new features or update applications already in production.
+          Currently working with SwingU and their multiple solutions.
+            - Android
+            - Java
+            - Kotlin
+            - BitRise
+      - role: Lead Developer
+        time: 2018 - 2020
+        company: Cantera Digital, México
+        details: |
+          Training new employees in the use of Android, Docker, Version Control
+          Development patterns, etc...
+          Planning and deploying proyects.
+          Integrate Android applications to existing APIs.
+            - Android
+            - Java
+            - Kotlin
+            - Laravel
+            - PHP    
+            - Python
 
-    - role: Android Developer
-      time: 2017 - 2018
-      company: Cantera Digital, México
-      details: |
-        Android and Full-Stack development of the startup checalock.com
-        Android development of "BeaconCity"
-          - Android
-          - Java
-          - Laravel
-          - PHP
+      - role: Android Developer
+        time: 2017 - 2018
+        company: Cantera Digital, México
+        details: |
+          Android and Full-Stack development of the startup checalock.com
+          Android development of "BeaconCity"
+            - Android
+            - Java
+            - Laravel
+            - PHP
 
-    - role: Web Developer
-      time: 2017 - 2017
-      company: MiMorelia, México
-      details: |
-        Migration and maintenance of wordpress blogs. 
-        Implementation of SEO best practices to level up
-        the engagement and ranking of the news website mimorelia.com
-          - Wordpress
-          - PHP
-    
-    - role: Java Developer
-      time: 2015 - 2016
-      company: ETIC Michoacán, México
-      details: |
-        Migration of un-normalized databases and implementation of web services.
-        Development of servlets and dashboards for government to have statistics of taxes.
-        Training of interns and new employees in development patterns for in Java
-        Design and development of multiple MVP’s for Android applications
-          - Java
-    - role: Web Developer
-      time: 2014 - 2015
-      company: MiMorelia, México
-      details: |
-        Maintenance of WordPress Sites, Development of News Blogs
-          - PHP
+      - role: Web Developer
+        time: 2017 - 2017
+        company: MiMorelia, México
+        details: |
+          Migration and maintenance of wordpress blogs. 
+          Implementation of SEO best practices to level up
+          the engagement and ranking of the news website mimorelia.com
+            - Wordpress
+            - PHP
+      
+      - role: Java Developer
+        time: 2015 - 2016
+        company: ETIC Michoacán, México
+        details: |
+          Migration of un-normalized databases and implementation of web services.
+          Development of servlets and dashboards for government to have statistics of taxes.
+          Training of interns and new employees in development patterns for in Java
+          Design and development of multiple MVP’s for Android applications
+            - Java
+      - role: Web Developer
+        time: 2014 - 2015
+        company: MiMorelia, México
+        details: |
+          Maintenance of WordPress Sites, Development of News Blogs
+            - PHP
 projects:
     title: Projects
     intro: >

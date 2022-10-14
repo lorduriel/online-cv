@@ -132,7 +132,7 @@ experiences:
       
       - role: Java Developer
         time: 2015 - 2016
-        company: ETIC Michoacán, México
+        company: CETIC Michoacán, México
         details: |
           Migration of un-normalized databases and implementation of web services.
           Development of servlets and dashboards for government to have statistics of taxes.

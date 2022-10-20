@@ -75,7 +75,8 @@ experiences:
         time: 2022 - 2022
         company: Wizeline, México
         details: |
-          Working in back-end internal projects
+          Working in back-end internal projects for knowledge based and FAQ systems.
+          Enrolled in the AWS Certification pathway, achieving the AWS Solutions Architect Associate certification
             - Java
             - Kotlin
             - PHP
@@ -89,7 +90,7 @@ experiences:
         details: |
           Outsourcing for companies with Android applications that need to add 
           new features or update applications already in production.
-          Currently working with SwingU and their multiple solutions.
+          Working with SwingU, leading golf score-card application and their multiple golf related solutions.
             - Android
             - Java
             - Kotlin
@@ -98,9 +99,8 @@ experiences:
         time: 2018 - 2020
         company: Cantera Digital, México
         details: |
-          Training new employees in the use of Android, Docker, Version Control
-          Development patterns, etc...
-          Planning and deploying projects.
+          Training new employees in the use of Android, Docker, Version Control, Development patterns, etc...
+          Planning and deploying projects for companies in the construction bussines.
           Integrate Android applications to existing APIs.
             - Android
             - Java
@@ -113,8 +113,8 @@ experiences:
         time: 2017 - 2018
         company: Cantera Digital, México
         details: |
-          Android and Full-Stack development of the startup checalock.com
-          Android development of "BeaconCity"
+          Android and Full-Stack development of the startup checalock.com, a QR based product authenticity application.
+          Android development of BeaconCity, a proximity advertisement application using Bluetooth technology similar to the "Nearby" project
             - Android
             - Java
             - Laravel
